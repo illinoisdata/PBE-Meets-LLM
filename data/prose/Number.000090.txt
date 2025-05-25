@@ -1,0 +1,1 @@
+{"InputTable": [["24-gurbanjemal"], ["10-lilly"]], "NumSamples": 2, "TestName": "Number.000090", "TestingTable": [["24-gurbanjemal"], ["10-lilly"]], "OutputTable": [["24"], ["10"]], "TestAnswer": [["24"], ["10"]]}

@@ -1,0 +1,1 @@
+{"InputTable": [["nenad"], ["yuri"], ["henrique"]], "NumSamples": 3, "TestName": "Email.000007", "TestingTable": [["nenad"], ["yuri"], ["henrique"]], "OutputTable": [["nenad@fabrikam.com"], ["yuri@fabrikam.com"], ["henrique@fabrikam.com"]], "TestAnswer": [["nenad@fabrikam.com"], ["yuri@fabrikam.com"], ["henrique@fabrikam.com"]]}

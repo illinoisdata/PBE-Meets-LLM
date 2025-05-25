@@ -1,0 +1,1 @@
+{"InputTable": [["Foo"], ["A"], [null], ["Z"], ["Baz"]], "NumSamples": 5, "TestName": "City.000009", "TestingTable": [["Foo"], ["A"], [null], ["Z"], ["Baz"], [null]], "OutputTable": [["F"], ["A"], ["N/A"], ["Z"], ["B"]], "TestAnswer": [["F"], ["A"], ["N/A"], ["Z"], ["B"], ["N/A"]]}

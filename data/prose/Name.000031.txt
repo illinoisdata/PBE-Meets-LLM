@@ -1,0 +1,1 @@
+{"InputTable": [["Asemelash- Svitlana"], ["Hennum- Alena"], ["Epherem- Elsa"]], "NumSamples": 3, "TestName": "Name.000031", "TestingTable": [["Asemelash- Svitlana"], ["Hennum- Alena"], ["Epherem- Elsa"]], "OutputTable": [["Svitlana"], ["Alena"], ["Elsa"]], "TestAnswer": [["Svitlana"], ["Alena"], ["Elsa"]]}

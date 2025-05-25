@@ -1,0 +1,1 @@
+{"InputTable": [["95.00"], ["323.10"]], "NumSamples": 2, "TestName": "Number.000024", "TestingTable": [["95.00"], ["323.10"]], "OutputTable": [["95"], ["323"]], "TestAnswer": [["95"], ["323"]]}

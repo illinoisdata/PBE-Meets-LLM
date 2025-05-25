@@ -1,0 +1,1 @@
+{"InputTable": [["[CPT-00350"], ["[CPT-00340"], ["[CPT-11536"]], "NumSamples": 3, "TestName": "BillingCode.000008", "TestingTable": [["[CPT-00350"], ["[CPT-00340"], ["[CPT-11536"]], "OutputTable": [["[CPT-00350]"], ["[CPT-00340]"], ["[CPT-11536]"]], "TestAnswer": [["[CPT-00350]"], ["[CPT-00340]"], ["[CPT-11536]"]]}

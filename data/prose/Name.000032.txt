@@ -1,0 +1,1 @@
+{"InputTable": [["8-Anne"], ["2-Fatma"], ["4-Dilorom"], ["2-Milica"], ["4-Anna"]], "NumSamples": 5, "TestName": "Name.000032", "TestingTable": [["8-Anne"], ["2-Fatma"], ["4-Dilorom"], ["2-Milica"], ["4-Anna"]], "OutputTable": [["Anne"], ["Fatma"], ["Dilorom"], ["Milica"], ["Anna"]], "TestAnswer": [["Anne"], ["Fatma"], ["Dilorom"], ["Milica"], ["Anna"]]}

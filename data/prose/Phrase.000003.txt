@@ -1,0 +1,1 @@
+{"InputTable": [["eaque placeat ullam ut"], ["error delectus expedita odit"], ["veniam qui illo aut"]], "NumSamples": 3, "TestName": "Phrase.000003", "TestingTable": [["eaque placeat ullam ut"], ["error delectus expedita odit"], ["veniam qui illo aut"]], "OutputTable": [["placeat"], ["delectus"], ["qui"]], "TestAnswer": [["placeat"], ["delectus"], ["qui"]]}

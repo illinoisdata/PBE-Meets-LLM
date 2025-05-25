@@ -1,0 +1,1 @@
+{"InputTable": [["Albert- Anne"], ["Sarlis- Fatma"], ["Kuznetsov- Dilorom"]], "NumSamples": 3, "TestName": "Name.000030", "TestingTable": [["Albert- Anne"], ["Sarlis- Fatma"], ["Kuznetsov- Dilorom"]], "OutputTable": [["Albert"], ["Sarlis"], ["Kuznetsov"]], "TestAnswer": [["Albert"], ["Sarlis"], ["Kuznetsov"]]}

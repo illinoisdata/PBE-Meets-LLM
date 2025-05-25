@@ -1,0 +1,13 @@
+pandas
+transformers==4.31.0 
+accelerate==0.21.0 
+einops==0.6.1 
+xformers==0.0.20 
+bitsandbytes==0.41.0
+torch
+langchain
+json
+openai == 0.28.0
+google.genai
+google
+anthropic

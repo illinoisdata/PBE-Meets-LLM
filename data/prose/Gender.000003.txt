@@ -1,0 +1,1 @@
+{"InputTable": [["Male"], ["Female"], ["Unknown"], ["Female"], ["Female"]], "NumSamples": 5, "TestName": "Gender.000003", "TestingTable": [["Male"], ["Female"], ["Unknown"], ["Female"], ["Female"], ["Male"], ["Unknown"], ["Male"], ["Female"]], "OutputTable": [["0"], ["1"], ["2"], ["1"], ["1"]], "TestAnswer": [["0"], ["1"], ["2"], ["1"], ["1"], ["0"], ["2"], ["0"], ["1"]]}

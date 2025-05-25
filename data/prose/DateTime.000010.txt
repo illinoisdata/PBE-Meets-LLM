@@ -1,0 +1,1 @@
+{"InputTable": [["Est - November 16- 2102 - Jawid"], ["Aliquam - January 28- 1746 - with Gebhard"]], "NumSamples": 2, "TestName": "DateTime.000010", "TestingTable": [["Est - November 16- 2102 - Jawid"], ["Aliquam - January 28- 1746 - with Gebhard"]], "OutputTable": [["2102"], ["1746"]], "TestAnswer": [["2102"], ["1746"]]}

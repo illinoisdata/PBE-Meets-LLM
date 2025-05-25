@@ -1,0 +1,1 @@
+{"InputTable": [["assumenda'k 'et'"], ["'ad'"], ["'harum'"], ["'doloremque'"]], "NumSamples": 4, "TestName": "Word.000001", "TestingTable": [["assumenda'k 'et'"], ["'ad'"], ["'harum'"], ["'doloremque'"]], "OutputTable": [["\"et\""], ["\"ad\""], ["\"harum\""], ["\"doloremque\""]], "TestAnswer": [["\"et\""], ["\"ad\""], ["\"harum\""], ["\"doloremque\""]]}

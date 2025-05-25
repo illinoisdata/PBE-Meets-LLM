@@ -1,0 +1,1 @@
+{"InputTable": [["875.25.9492"], ["harum.totam.voluptatibus"], ["asperiores.cum.ipsam"], ["890.65.9650"]], "NumSamples": 4, "TestName": "Separator.000001", "TestingTable": [["875.25.9492"], ["harum.totam.voluptatibus"], ["asperiores.cum.ipsam"], ["890.65.9650"]], "OutputTable": [["25"], ["totam"], ["cum"], ["65"]], "TestAnswer": [["25"], ["totam"], ["cum"], ["65"]]}

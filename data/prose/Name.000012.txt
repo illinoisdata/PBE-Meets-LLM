@@ -1,0 +1,1 @@
+{"InputTable": [["<n>Haniya Mehraban</n>"], ["<n>Haniya Mehraban</n>"]], "NumSamples": 2, "TestName": "Name.000012", "TestingTable": [["<n>Haniya Mehraban</n>"], ["<n>Haniya Mehraban</n>"]], "OutputTable": [["<n>H Mehraban</n>"], ["<n>H Mehraban</n>"]], "TestAnswer": [["<n>H Mehraban</n>"], ["<n>H Mehraban</n>"]]}

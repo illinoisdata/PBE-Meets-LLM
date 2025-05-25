@@ -1,0 +1,1 @@
+{"InputTable": [["ggg"], ["malat"], ["gulyas"]], "NumSamples": 3, "TestName": "Email.000005", "TestingTable": [["ggg"], ["malat"], ["gulyas"]], "OutputTable": [["ggg@proseware.com"], ["malat@proseware.com"], ["gulyas@proseware.com"]], "TestAnswer": [["ggg@proseware.com"], ["malat@proseware.com"], ["gulyas@proseware.com"]]}

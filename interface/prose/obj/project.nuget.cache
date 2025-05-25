@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "gwZ+Oa8y5Q8i5pvtJRttoX8y0G76yspFHPMjQPoPSoj8/Ycbx+RGVphAZjpaG0FNVoq3cj9KCgBIA0bW6iPBYQ==",
+  "success": true,
+  "projectFilePath": "/Users/savannazhang/Desktop/LLM_data_trans/previous work/prose/api-samples/Transformation.Text/Transformation.Text.csproj",
+  "expectedPackageFiles": [
+    "/Users/savannazhang/.nuget/packages/microsoft.extensions.dependencymodel/5.0.0/microsoft.extensions.dependencymodel.5.0.0.nupkg.sha512",
+    "/Users/savannazhang/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/savannazhang/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/savannazhang/.nuget/packages/microsoft.programsynthesis.common/8.28.0/microsoft.programsynthesis.common.8.28.0.nupkg.sha512",
+    "/Users/savannazhang/.nuget/packages/microsoft.programsynthesis.conditionals/8.28.0/microsoft.programsynthesis.conditionals.8.28.0.nupkg.sha512",
+    "/Users/savannazhang/.nuget/packages/microsoft.programsynthesis.transformation.text/8.28.0/microsoft.programsynthesis.transformation.text.8.28.0.nupkg.sha512",
+    "/Users/savannazhang/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/Users/savannazhang/.nuget/packages/system.collections.immutable/1.4.0/system.collections.immutable.1.4.0.nupkg.sha512",
+    "/Users/savannazhang/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
+    "/Users/savannazhang/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/Users/savannazhang/.nuget/packages/system.reflection.primitives/4.3.0/system.reflection.primitives.4.3.0.nupkg.sha512",
+    "/Users/savannazhang/.nuget/packages/system.reflection.typeextensions/4.4.0/system.reflection.typeextensions.4.4.0.nupkg.sha512",
+    "/Users/savannazhang/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/savannazhang/.nuget/packages/system.runtime.loader/4.3.0/system.runtime.loader.4.3.0.nupkg.sha512",
+    "/Users/savannazhang/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/Users/savannazhang/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512",
+    "/Users/savannazhang/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/savannazhang/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/savannazhang/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.26/microsoft.netcore.app.host.osx-arm64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

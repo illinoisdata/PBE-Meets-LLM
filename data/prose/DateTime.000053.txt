@@ -1,0 +1,1 @@
+{"InputTable": [["227"], ["825"], ["1105"], ["114"]], "NumSamples": 4, "TestName": "DateTime.000053", "TestingTable": [["227"], ["825"], ["1105"], ["114"]], "OutputTable": [["2:00AM-2:30AM"], ["8:00AM-8:30AM"], ["11:00AM-11:30AM"], ["1:00AM-1:30AM"]], "TestAnswer": [["2:00AM-2:30AM"], ["8:00AM-8:30AM"], ["11:00AM-11:30AM"], ["1:00AM-1:30AM"]]}

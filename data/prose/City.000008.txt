@@ -1,0 +1,1 @@
+{"InputTable": [["SF"], [""], [null], ["san francisco"], ["SAN FRANCISCO"]], "NumSamples": 5, "TestName": "City.000008", "TestingTable": [["SF"], [""], [null], ["san francisco"], ["SAN FRANCISCO"]], "OutputTable": [["San Francisco"], [""], [""], ["san francisco"], ["San Francisco"]], "TestAnswer": [["San Francisco"], [""], [""], ["san francisco"], ["San Francisco"]]}
