@@ -1,27 +1,24 @@
 #!/bin/bash
 
-# folder_path="../../../../data/prose/Transformation.Text"  # Replace this with the actual path to the folder
+folder_path="$1"  # Get the first command-line argument
 
-# # Check if the folder exists
-# if [ -d "$folder_path" ]; then
-#     # Traverse all file names in the folder and print them
-#     for sub_folder_path in "$folder_path"/*; do
-#         if [ -d "$sub_folder_path" ]; then
-#             # Print the path of spec.json file inside each subfolder
-#             sub_folder_name=$(basename "$sub_folder_path")
-#             dotnet run  ${sub_folder_path}/spec.json ${sub_folder_name}
-#         fi
-#     done
-# else
-#     echo "Folder does not exist."
-# fi
-# dotnet run ../../../../data/prose/foofah/exp0_potters_wheel_fold_1.json exp0_potters_wheel_fold_1
+if [ -d "$folder_path" ]; then
+    # Traverse all files in the folder
+    for file_path in "$folder_path"/*.json; do
+        base_name=$(basename "$file_path")  # e.g., file.json
+        name_without_ext="${base_name%.*}"  # e.g., file
 
-for i in $(seq 1 5); do
+        # Skip macOS system file
+        if [ "$base_name" != ".DS_Store" ]; then
+            echo "------------------------"
+            echo "experiment progress: ${file_path}"
+            echo "------------------------"
+            # Run the .NET app with full path and file name
+            dotnet run "$file_path" "$name_without_ext"
+        fi
+    done
+else
+    echo "Folder does not exist: $folder_path"
+    exit 1
+fi
 
-    echo "------------------------"
-    echo "experiment progress: ${i}"
-    echo "------------------------"
-        dotnet run ../../../../data/prose/foofah/exp0_17_${i}.json exp0_17_${i}
-
-done
