@@ -50,7 +50,7 @@ bash run.sh
 #### Run Foofah and Hybrid model
 
 Since Foofah was built with python2 we will  be using Docker to run it. Please follow the following files to run the experiments.
-- [Foofah](https://github.com/illinoisdata/PBE-Meets-LLM/blob/main/interface/foofah/README.md)
+- [Foofah](https://github.com/illinoisdata/PBE-Meets-LLM/blob/main/interface/foofah_experiment/README.md)
 - [Hybrid](https://github.com/illinoisdata/PBE-Meets-LLM/blob/main/interface/hybrid/README.md)
 
 ## Evaluation
